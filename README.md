@@ -1,2 +1,3 @@
 # testRepo
-Test repository (Coursera)
+Test repository (Coursera)<br/>
+This is my first GitHub repository
